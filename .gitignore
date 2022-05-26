@@ -1,0 +1,5 @@
+.idea
+__pycache__
+Assignment2/starter_code_torch/results/q7_train_atari_nature/model.weights
+Assignment2/starter_code_torch/weights/model_2700000.weights
+

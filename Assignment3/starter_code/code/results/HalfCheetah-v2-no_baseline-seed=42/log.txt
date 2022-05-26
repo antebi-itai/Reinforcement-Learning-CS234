@@ -1,0 +1,480 @@
+2022-05-26 11:27:04,925:INFO: Average reward: -694.57 +/- 13.09
+2022-05-26 11:27:29,217:INFO: Average reward: -1656.43 +/- 23.97
+2022-05-26 11:27:53,785:INFO: Average reward: -660.68 +/- 13.55
+2022-05-26 11:28:17,713:INFO: Average reward: -585.89 +/- 10.04
+2022-05-26 11:28:42,154:INFO: Average reward: -587.26 +/- 10.54
+2022-05-26 11:29:06,928:INFO: Average reward: -572.05 +/- 11.37
+2022-05-26 11:29:30,857:INFO: Average reward: -556.55 +/- 10.81
+2022-05-26 11:29:55,894:INFO: Average reward: -539.99 +/- 11.01
+2022-05-26 11:30:20,210:INFO: Average reward: -518.81 +/- 9.42
+2022-05-26 11:30:44,473:INFO: Average reward: -508.41 +/- 11.31
+2022-05-26 11:31:08,458:INFO: Average reward: -475.85 +/- 12.37
+2022-05-26 11:31:32,669:INFO: Average reward: -467.13 +/- 9.07
+2022-05-26 11:31:56,945:INFO: Average reward: -436.65 +/- 9.83
+2022-05-26 11:32:20,827:INFO: Average reward: -419.02 +/- 10.83
+2022-05-26 11:32:45,064:INFO: Average reward: -405.77 +/- 11.64
+2022-05-26 11:33:08,868:INFO: Average reward: -379.04 +/- 11.16
+2022-05-26 11:33:32,640:INFO: Average reward: -357.70 +/- 9.49
+2022-05-26 11:33:57,213:INFO: Average reward: -325.64 +/- 10.99
+2022-05-26 11:34:21,169:INFO: Average reward: -303.93 +/- 11.73
+2022-05-26 11:34:45,398:INFO: Average reward: -305.49 +/- 9.79
+2022-05-26 11:35:09,807:INFO: Average reward: -292.81 +/- 9.86
+2022-05-26 11:35:33,875:INFO: Average reward: -253.02 +/- 7.64
+2022-05-26 11:35:58,609:INFO: Average reward: -272.14 +/- 9.39
+2022-05-26 11:36:23,036:INFO: Average reward: -230.38 +/- 7.64
+2022-05-26 11:36:47,732:INFO: Average reward: -220.29 +/- 8.86
+2022-05-26 11:37:12,059:INFO: Average reward: -205.28 +/- 7.38
+2022-05-26 11:37:36,773:INFO: Average reward: -208.02 +/- 6.53
+2022-05-26 11:38:01,251:INFO: Average reward: -211.51 +/- 8.18
+2022-05-26 11:38:25,295:INFO: Average reward: -177.79 +/- 7.16
+2022-05-26 11:38:50,015:INFO: Average reward: -175.45 +/- 6.78
+2022-05-26 11:39:14,549:INFO: Average reward: -182.88 +/- 7.66
+2022-05-26 11:39:39,160:INFO: Average reward: -163.89 +/- 8.05
+2022-05-26 11:40:04,111:INFO: Average reward: -174.20 +/- 9.17
+2022-05-26 11:40:28,371:INFO: Average reward: -187.94 +/- 8.08
+2022-05-26 11:40:53,093:INFO: Average reward: -180.73 +/- 8.63
+2022-05-26 11:41:17,365:INFO: Average reward: -174.94 +/- 9.50
+2022-05-26 11:41:41,743:INFO: Average reward: -170.52 +/- 9.76
+2022-05-26 11:42:06,216:INFO: Average reward: -169.44 +/- 8.67
+2022-05-26 11:42:30,235:INFO: Average reward: -171.05 +/- 8.86
+2022-05-26 11:42:54,567:INFO: Average reward: -184.24 +/- 10.59
+2022-05-26 11:43:18,730:INFO: Average reward: -144.05 +/- 9.03
+2022-05-26 11:43:43,088:INFO: Average reward: -144.78 +/- 7.96
+2022-05-26 11:44:07,669:INFO: Average reward: -139.01 +/- 7.00
+2022-05-26 11:44:31,837:INFO: Average reward: -132.04 +/- 8.51
+2022-05-26 11:44:56,454:INFO: Average reward: -115.23 +/- 8.19
+2022-05-26 11:45:20,587:INFO: Average reward: -106.22 +/- 7.36
+2022-05-26 11:45:45,553:INFO: Average reward: -106.60 +/- 7.11
+2022-05-26 11:46:10,674:INFO: Average reward: -92.66 +/- 8.05
+2022-05-26 11:46:35,648:INFO: Average reward: -91.78 +/- 6.11
+2022-05-26 11:47:00,397:INFO: Average reward: -81.92 +/- 7.18
+2022-05-26 11:47:24,549:INFO: Average reward: -92.42 +/- 7.75
+2022-05-26 11:47:49,195:INFO: Average reward: -86.54 +/- 8.37
+2022-05-26 11:48:13,801:INFO: Average reward: -83.13 +/- 6.05
+2022-05-26 11:48:38,335:INFO: Average reward: -84.90 +/- 7.76
+2022-05-26 11:49:03,107:INFO: Average reward: -90.50 +/- 7.57
+2022-05-26 11:49:27,448:INFO: Average reward: -114.13 +/- 9.91
+2022-05-26 11:49:52,186:INFO: Average reward: -109.00 +/- 9.94
+2022-05-26 11:50:17,361:INFO: Average reward: -92.87 +/- 9.85
+2022-05-26 11:50:42,443:INFO: Average reward: -98.84 +/- 10.85
+2022-05-26 11:51:07,287:INFO: Average reward: -115.92 +/- 10.54
+2022-05-26 11:51:31,641:INFO: Average reward: -95.23 +/- 9.99
+2022-05-26 11:51:56,608:INFO: Average reward: -79.71 +/- 10.03
+2022-05-26 11:52:21,232:INFO: Average reward: -63.57 +/- 6.96
+2022-05-26 11:52:45,919:INFO: Average reward: -52.88 +/- 7.93
+2022-05-26 11:53:10,961:INFO: Average reward: -56.41 +/- 8.23
+2022-05-26 11:53:35,741:INFO: Average reward: -64.16 +/- 7.91
+2022-05-26 11:54:00,566:INFO: Average reward: -66.54 +/- 9.59
+2022-05-26 11:54:25,451:INFO: Average reward: -53.00 +/- 6.68
+2022-05-26 11:54:50,545:INFO: Average reward: -60.47 +/- 10.53
+2022-05-26 11:55:15,651:INFO: Average reward: -71.13 +/- 9.47
+2022-05-26 11:55:40,556:INFO: Average reward: -55.43 +/- 9.98
+2022-05-26 11:56:05,333:INFO: Average reward: -51.01 +/- 10.10
+2022-05-26 11:56:29,751:INFO: Average reward: -62.33 +/- 8.92
+2022-05-26 11:56:54,799:INFO: Average reward: -57.21 +/- 10.83
+2022-05-26 11:57:19,124:INFO: Average reward: -88.25 +/- 11.34
+2022-05-26 11:57:43,655:INFO: Average reward: -96.18 +/- 12.30
+2022-05-26 11:58:07,858:INFO: Average reward: -66.14 +/- 11.71
+2022-05-26 11:58:32,556:INFO: Average reward: -81.75 +/- 11.40
+2022-05-26 11:58:57,784:INFO: Average reward: -80.25 +/- 8.74
+2022-05-26 11:59:22,594:INFO: Average reward: -86.47 +/- 10.54
+2022-05-26 11:59:47,336:INFO: Average reward: -90.50 +/- 10.62
+2022-05-26 12:00:11,857:INFO: Average reward: -74.62 +/- 11.77
+2022-05-26 12:00:36,324:INFO: Average reward: -88.38 +/- 10.35
+2022-05-26 12:01:01,079:INFO: Average reward: -65.49 +/- 10.07
+2022-05-26 12:01:25,662:INFO: Average reward: -61.65 +/- 9.16
+2022-05-26 12:01:50,611:INFO: Average reward: -59.08 +/- 7.87
+2022-05-26 12:02:15,695:INFO: Average reward: -48.62 +/- 10.87
+2022-05-26 12:02:40,789:INFO: Average reward: -30.77 +/- 6.87
+2022-05-26 12:03:05,826:INFO: Average reward: -13.91 +/- 6.00
+2022-05-26 12:03:30,490:INFO: Average reward: -1.39 +/- 4.80
+2022-05-26 12:03:55,893:INFO: Average reward: -24.47 +/- 7.64
+2022-05-26 12:04:20,706:INFO: Average reward: -7.22 +/- 6.23
+2022-05-26 12:04:46,446:INFO: Average reward: -9.85 +/- 6.71
+2022-05-26 12:05:11,997:INFO: Average reward: -6.46 +/- 6.93
+2022-05-26 12:05:36,824:INFO: Average reward: -793.94 +/- 0.00
+2022-05-26 12:05:37,458:INFO: Average reward: -12.57 +/- 9.54
+2022-05-26 12:06:03,025:INFO: Average reward: -6.44 +/- 8.65
+2022-05-26 12:06:28,098:INFO: Average reward: -13.37 +/- 9.98
+2022-05-26 12:06:44,365:INFO: Average reward: -678.25 +/- 12.47
+2022-05-26 12:06:53,325:INFO: Average reward: -32.08 +/- 10.70
+2022-05-26 12:07:18,258:INFO: Average reward: -26.86 +/- 12.88
+2022-05-26 12:07:43,366:INFO: Average reward: -65.36 +/- 12.50
+2022-05-26 12:07:43,367:INFO: - Training done.
+2022-05-26 12:07:43,392:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0.
+2022-05-26 12:07:43,392:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,393:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+2022-05-26 12:07:43,394:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'DejaVu LGC Sans Mono' (DejaVuLGCSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'DejaVu LGC Sans Mono' (DejaVuLGCSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed-Bold.ttf) normal normal 700 condensed>) = 0.5349999999999999
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-ExtraLight.ttf) normal normal 200 normal>) = 0.24
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed.ttf) normal normal 400 condensed>) = 0.25
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoOblique.ttf) oblique normal 400 normal>) = 11.05
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'DejaVu LGC Sans Mono' (DejaVuLGCSansMono.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 12:07:43,395:DEBUG: findfont: score(<Font 'FreeMono' (FreeMono.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,396:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,396:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,396:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed-BoldOblique.ttf) oblique normal 700 condensed>) = 1.535
+2022-05-26 12:07:43,396:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2022-05-26 12:07:43,396:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2022-05-26 12:07:43,396:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,396:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed-Oblique.ttf) oblique normal 400 condensed>) = 1.25
+2022-05-26 12:07:43,396:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 12:07:43,396:DEBUG: findfont: score(<Font 'DejaVu LGC Sans Mono' (DejaVuLGCSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,396:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+2022-05-26 12:07:43,396:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoBoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2022-05-26 12:07:43,396:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoBold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,396:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 12:07:43,396:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/net/mraid11/export/groups/iranig/.conda/envs/itaian-gpu/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2022-05-26 12:07:43,407:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2022-05-26 12:07:43,407:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,407:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 12:07:43,408:DEBUG: findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,408:DEBUG: findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,408:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 12:07:43,408:DEBUG: findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,409:DEBUG: findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,409:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2022-05-26 12:07:43,409:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,409:DEBUG: findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,410:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2022-05-26 12:07:43,410:DEBUG: findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,410:DEBUG: findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,410:DEBUG: findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,410:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 12:07:43,411:DEBUG: findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,411:DEBUG: findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,411:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,411:DEBUG: findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,412:DEBUG: findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,412:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,412:DEBUG: findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,412:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2022-05-26 12:07:43,412:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2022-05-26 12:07:43,413:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2022-05-26 12:07:43,413:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 12:07:43,413:DEBUG: findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,413:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 12:07:43,414:DEBUG: findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,414:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,414:DEBUG: findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,414:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,414:DEBUG: findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,415:DEBUG: findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,415:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+2022-05-26 12:07:43,415:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 12:07:43,415:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,416:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,416:DEBUG: findfont: score(<Font 'DejaVu LGC Sans Mono' (DejaVuLGCSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2022-05-26 12:07:43,416:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2022-05-26 12:07:43,416:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2022-05-26 12:07:43,416:DEBUG: findfont: score(<Font 'DejaVu LGC Sans Mono' (DejaVuLGCSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2022-05-26 12:07:43,416:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed-Bold.ttf) normal normal 700 condensed>) = 0.5349999999999999
+2022-05-26 12:07:43,417:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,417:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-ExtraLight.ttf) normal normal 200 normal>) = 0.24
+2022-05-26 12:07:43,417:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2022-05-26 12:07:43,417:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed.ttf) normal normal 400 condensed>) = 0.25
+2022-05-26 12:07:43,417:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,417:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,417:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 12:07:43,417:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoOblique.ttf) oblique normal 400 normal>) = 11.05
+2022-05-26 12:07:43,417:DEBUG: findfont: score(<Font 'DejaVu LGC Sans Mono' (DejaVuLGCSansMono.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,418:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 12:07:43,418:DEBUG: findfont: score(<Font 'FreeMono' (FreeMono.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,418:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,418:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 12:07:43,418:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed-BoldOblique.ttf) oblique normal 700 condensed>) = 1.535
+2022-05-26 12:07:43,418:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2022-05-26 12:07:43,418:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2022-05-26 12:07:43,418:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,419:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed-Oblique.ttf) oblique normal 400 condensed>) = 1.25
+2022-05-26 12:07:43,419:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 12:07:43,419:DEBUG: findfont: score(<Font 'DejaVu LGC Sans Mono' (DejaVuLGCSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,419:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+2022-05-26 12:07:43,419:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoBoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2022-05-26 12:07:43,419:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoBold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 12:07:43,419:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 12:07:43,419:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/net/mraid11/export/groups/iranig/.conda/envs/itaian-gpu/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2022-05-26 12:07:50,087:INFO: Average reward: -2086.16 +/- 26.21
+2022-05-26 12:08:54,543:INFO: Average reward: -642.86 +/- 12.00
+2022-05-26 12:09:58,482:INFO: Average reward: -583.45 +/- 12.08
+2022-05-26 12:11:03,339:INFO: Average reward: -586.19 +/- 10.18
+2022-05-26 12:12:08,130:INFO: Average reward: -580.00 +/- 10.49
+2022-05-26 12:13:13,007:INFO: Average reward: -568.83 +/- 9.89
+2022-05-26 12:14:17,950:INFO: Average reward: -565.64 +/- 12.79
+2022-05-26 12:15:22,254:INFO: Average reward: -535.01 +/- 10.71
+2022-05-26 12:16:26,186:INFO: Average reward: -495.18 +/- 11.57
+2022-05-26 12:17:30,081:INFO: Average reward: -489.51 +/- 9.79
+2022-05-26 12:18:33,971:INFO: Average reward: -494.38 +/- 11.56
+2022-05-26 12:19:33,843:INFO: Average reward: -450.82 +/- 9.95
+2022-05-26 12:20:09,357:INFO: Average reward: -437.51 +/- 10.56
+2022-05-26 12:20:47,609:INFO: Average reward: -424.98 +/- 9.81
+2022-05-26 12:21:21,650:INFO: Average reward: -395.54 +/- 11.43
+2022-05-26 12:21:55,699:INFO: Average reward: -416.76 +/- 11.21
+2022-05-26 12:22:29,711:INFO: Average reward: -372.44 +/- 10.53
+2022-05-26 12:23:03,840:INFO: Average reward: -348.79 +/- 9.88
+2022-05-26 12:23:38,037:INFO: Average reward: -338.86 +/- 10.32
+2022-05-26 12:24:12,315:INFO: Average reward: -309.27 +/- 10.37
+2022-05-26 12:24:46,505:INFO: Average reward: -303.13 +/- 10.30
+2022-05-26 12:25:20,703:INFO: Average reward: -265.90 +/- 9.59
+2022-05-26 12:25:55,131:INFO: Average reward: -263.26 +/- 9.20
+2022-05-26 12:26:35,177:INFO: Average reward: -242.75 +/- 9.04
+2022-05-26 12:27:16,813:INFO: Average reward: -217.84 +/- 8.78
+2022-05-26 12:27:58,176:INFO: Average reward: -215.96 +/- 8.21
+2022-05-26 12:28:39,691:INFO: Average reward: -199.56 +/- 5.46
+2022-05-26 12:29:21,216:INFO: Average reward: -193.89 +/- 7.67
+2022-05-26 12:30:02,320:INFO: Average reward: -193.92 +/- 6.76
+2022-05-26 12:30:43,914:INFO: Average reward: -171.47 +/- 7.73
+2022-05-26 12:31:25,514:INFO: Average reward: -166.16 +/- 6.44
+2022-05-26 12:32:07,088:INFO: Average reward: -171.27 +/- 9.12
+2022-05-26 12:32:48,781:INFO: Average reward: -144.59 +/- 9.09
+2022-05-26 12:33:30,269:INFO: Average reward: -150.10 +/- 7.63
+2022-05-26 12:34:11,698:INFO: Average reward: -151.08 +/- 7.91
+2022-05-26 12:34:53,147:INFO: Average reward: -146.57 +/- 7.98
+2022-05-26 12:35:34,568:INFO: Average reward: -137.90 +/- 6.90
+2022-05-26 12:36:15,997:INFO: Average reward: -145.43 +/- 6.94
+2022-05-26 12:36:57,388:INFO: Average reward: -149.42 +/- 8.05
+2022-05-26 12:37:38,802:INFO: Average reward: -147.64 +/- 9.45
+2022-05-26 12:38:20,137:INFO: Average reward: -139.30 +/- 8.43
+2022-05-26 12:39:01,695:INFO: Average reward: -147.28 +/- 8.44
+2022-05-26 12:39:43,108:INFO: Average reward: -139.61 +/- 9.39
+2022-05-26 12:40:24,542:INFO: Average reward: -115.20 +/- 10.20
+2022-05-26 12:41:00,664:INFO: Average reward: -127.48 +/- 8.75
+2022-05-26 12:41:35,041:INFO: Average reward: -133.82 +/- 8.70
+2022-05-26 12:42:09,391:INFO: Average reward: -138.13 +/- 9.31
+2022-05-26 12:42:43,819:INFO: Average reward: -125.37 +/- 8.06
+2022-05-26 12:43:18,188:INFO: Average reward: -117.41 +/- 8.64
+2022-05-26 12:43:52,766:INFO: Average reward: -101.07 +/- 7.19
+2022-05-26 12:44:27,193:INFO: Average reward: -88.01 +/- 7.50
+2022-05-26 12:45:01,742:INFO: Average reward: -90.69 +/- 7.23
+2022-05-26 12:45:36,247:INFO: Average reward: -78.36 +/- 6.87
+2022-05-26 12:46:10,766:INFO: Average reward: -86.02 +/- 5.82
+2022-05-26 12:46:51,601:INFO: Average reward: -73.10 +/- 7.55
+2022-05-26 12:47:32,936:INFO: Average reward: -77.31 +/- 7.64
+2022-05-26 12:48:14,343:INFO: Average reward: -94.01 +/- 8.63
+2022-05-26 12:48:55,681:INFO: Average reward: -75.71 +/- 8.16
+2022-05-26 12:49:37,142:INFO: Average reward: -70.21 +/- 6.78
+2022-05-26 12:50:18,573:INFO: Average reward: -77.20 +/- 7.61
+2022-05-26 12:51:00,031:INFO: Average reward: -55.45 +/- 7.71
+2022-05-26 12:51:41,438:INFO: Average reward: -61.94 +/- 7.88
+2022-05-26 12:52:22,834:INFO: Average reward: -72.25 +/- 9.09
+2022-05-26 12:53:04,241:INFO: Average reward: -57.14 +/- 8.63
+2022-05-26 12:53:45,849:INFO: Average reward: -46.07 +/- 7.51
+2022-05-26 12:54:27,347:INFO: Average reward: -72.66 +/- 8.64
+2022-05-26 12:55:09,089:INFO: Average reward: -71.08 +/- 9.41
+2022-05-26 12:55:50,756:INFO: Average reward: -69.09 +/- 11.36
+2022-05-26 12:56:32,260:INFO: Average reward: -41.40 +/- 9.00
+2022-05-26 12:57:13,754:INFO: Average reward: -62.85 +/- 9.78
+2022-05-26 12:57:55,174:INFO: Average reward: -53.85 +/- 9.20
+2022-05-26 12:58:36,535:INFO: Average reward: -79.04 +/- 9.79
+2022-05-26 12:59:17,921:INFO: Average reward: -61.92 +/- 8.61
+2022-05-26 12:59:59,491:INFO: Average reward: -80.72 +/- 11.16
+2022-05-26 13:00:40,999:INFO: Average reward: -63.16 +/- 10.42
+2022-05-26 13:01:22,475:INFO: Average reward: -78.23 +/- 9.37
+2022-05-26 13:02:04,051:INFO: Average reward: -65.36 +/- 11.34
+2022-05-26 13:02:45,374:INFO: Average reward: -102.70 +/- 11.33
+2022-05-26 13:03:26,735:INFO: Average reward: -70.15 +/- 7.99
+2022-05-26 13:04:08,356:INFO: Average reward: -51.46 +/- 10.32
+2022-05-26 13:04:49,922:INFO: Average reward: -54.24 +/- 9.22
+2022-05-26 13:05:31,332:INFO: Average reward: -36.89 +/- 9.28
+2022-05-26 13:06:12,836:INFO: Average reward: -27.37 +/- 9.03
+2022-05-26 13:06:54,517:INFO: Average reward: -34.06 +/- 8.89
+2022-05-26 13:07:36,021:INFO: Average reward: -22.89 +/- 8.91
+2022-05-26 13:08:17,659:INFO: Average reward: -31.70 +/- 9.74
+2022-05-26 13:08:59,024:INFO: Average reward: -35.65 +/- 9.36
+2022-05-26 13:09:40,430:INFO: Average reward: -86.37 +/- 11.54
+2022-05-26 13:10:21,818:INFO: Average reward: -138.08 +/- 9.78
+2022-05-26 13:11:03,465:INFO: Average reward: -97.41 +/- 9.48
+2022-05-26 13:11:44,952:INFO: Average reward: -86.79 +/- 10.94
+2022-05-26 13:12:26,318:INFO: Average reward: -86.72 +/- 10.23
+2022-05-26 13:13:07,878:INFO: Average reward: -96.89 +/- 9.45
+2022-05-26 13:13:49,344:INFO: Average reward: -153.59 +/- 6.05
+2022-05-26 13:14:30,536:INFO: Average reward: -141.69 +/- 3.67
+2022-05-26 13:15:05,781:INFO: Average reward: -110.83 +/- 6.09
+2022-05-26 13:15:40,601:INFO: Average reward: -107.68 +/- 5.94
+2022-05-26 13:16:15,344:INFO: Average reward: -82.44 +/- 5.06
+2022-05-26 13:16:50,159:INFO: Average reward: -55.52 +/- 3.57
+2022-05-26 13:16:50,160:INFO: - Training done.
+2022-05-26 13:16:50,181:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0.
+2022-05-26 13:16:50,181:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,181:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 13:16:50,181:DEBUG: findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,181:DEBUG: findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2022-05-26 13:16:50,182:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'DejaVu LGC Sans Mono' (DejaVuLGCSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'DejaVu LGC Sans Mono' (DejaVuLGCSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed-Bold.ttf) normal normal 700 condensed>) = 0.5349999999999999
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-ExtraLight.ttf) normal normal 200 normal>) = 0.24
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2022-05-26 13:16:50,183:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed.ttf) normal normal 400 condensed>) = 0.25
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoOblique.ttf) oblique normal 400 normal>) = 11.05
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'DejaVu LGC Sans Mono' (DejaVuLGCSansMono.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'FreeMono' (FreeMono.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed-BoldOblique.ttf) oblique normal 700 condensed>) = 1.535
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed-Oblique.ttf) oblique normal 400 condensed>) = 1.25
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'DejaVu LGC Sans Mono' (DejaVuLGCSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoBoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoBold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,184:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 13:16:50,184:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/net/mraid11/export/groups/iranig/.conda/envs/itaian-gpu/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2022-05-26 13:16:50,194:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2022-05-26 13:16:50,194:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,194:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 13:16:50,194:DEBUG: findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,194:DEBUG: findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,194:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 13:16:50,194:DEBUG: findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,194:DEBUG: findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,194:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2022-05-26 13:16:50,194:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,195:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'DejaVu LGC Sans Mono' (DejaVuLGCSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'DejaVu LGC Sans Mono' (DejaVuLGCSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed-Bold.ttf) normal normal 700 condensed>) = 0.5349999999999999
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-ExtraLight.ttf) normal normal 200 normal>) = 0.24
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed.ttf) normal normal 400 condensed>) = 0.25
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoOblique.ttf) oblique normal 400 normal>) = 11.05
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'DejaVu LGC Sans Mono' (DejaVuLGCSansMono.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'FreeMono' (FreeMono.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,196:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,197:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2022-05-26 13:16:50,197:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed-BoldOblique.ttf) oblique normal 700 condensed>) = 1.535
+2022-05-26 13:16:50,197:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2022-05-26 13:16:50,197:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2022-05-26 13:16:50,197:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,197:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed-Oblique.ttf) oblique normal 400 condensed>) = 1.25
+2022-05-26 13:16:50,197:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2022-05-26 13:16:50,197:DEBUG: findfont: score(<Font 'DejaVu LGC Sans Mono' (DejaVuLGCSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,197:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+2022-05-26 13:16:50,197:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoBoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2022-05-26 13:16:50,197:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoBold.ttf) normal normal 700 normal>) = 10.335
+2022-05-26 13:16:50,197:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+2022-05-26 13:16:50,197:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/net/mraid11/export/groups/iranig/.conda/envs/itaian-gpu/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2022-05-26 13:18:02,341:INFO: Average reward: -13.39 +/- 0.00
